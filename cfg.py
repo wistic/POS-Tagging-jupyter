@@ -6,5 +6,5 @@ config = {
     'test_folder_path': 'resources/Test-corpus/',
 
     # Set output folder
-    'output_folder_path': 'output/',
+    'output_folder_path': 'output/'
 }
