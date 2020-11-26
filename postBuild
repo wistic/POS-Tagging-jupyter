@@ -1,0 +1,3 @@
+wget -q -O download.zip https://bit.ly/2KxhZyH
+
+unzip download.zip
